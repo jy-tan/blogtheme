@@ -428,7 +428,7 @@ table {
 }
 
 th, td {
-    text-align: left;
+    text-align: justify;
     padding-right: 20px;
     vertical-align: top;
 }
@@ -449,7 +449,7 @@ tr:nth-child(odd)>td {
 }
 
 thead th, th {
-    text-align: left;
+    text-align: justify;
     padding: 10px 15px;
     height: 20px;
     font-size: 13px;
